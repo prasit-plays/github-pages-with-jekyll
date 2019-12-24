@@ -11,3 +11,4 @@ twitter_username: my-twitter-handle
 github_username:  my-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
